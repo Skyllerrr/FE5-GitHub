@@ -1,4 +1,4 @@
-cs 지식
+CS 지식
 
 IP, URL, PORT 개념정리
 emmet 문법 훑어보기
@@ -11,8 +11,8 @@ www.naver.com -> DNS -> 223.130.195.200 -> Server -> 웹 브라우저에 표시
 
 
 GitHub
-프로젝트 다운로드 받을 때 :
-git clone repo주소 .
+
+프로젝트 다운로드 받을 때 : it clone repo주소 .
 
 (***순서 기억***)
 git pull					<- 혼자 하는 프로젝트에서는 필요 없음
