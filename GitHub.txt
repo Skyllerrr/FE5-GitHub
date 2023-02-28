@@ -2,6 +2,7 @@ cs 지식
 
 IP, URL, PORT 개념정리
 emmet 문법 훑어보기
+VSC 단축키 정리
 
 www.naver.com -> DNS -> 223.130.195.200 -> Server -> 웹 브라우저에 표시
 
