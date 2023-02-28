@@ -1,6 +1,7 @@
 cs 지식
 
-IP, URL, PORT
+IP, URL, PORT 개념정리
+emmet 문법 훑어보기
 
 www.naver.com -> DNS -> 223.130.195.200 -> Server -> 웹 브라우저에 표시
 
@@ -8,7 +9,7 @@ www.naver.com -> DNS -> 223.130.195.200 -> Server -> 웹 브라우저에 표시
 443 = HTTPS - 보안 소켓 레이어 (SSL, Secure Socket Layer) 위의 HTTP (암호화 전송)
 
 
-GitHub [내 토큰 - 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]
+GitHub
 프로젝트 다운로드 받을 때 :
 git clone repo주소 .
 
