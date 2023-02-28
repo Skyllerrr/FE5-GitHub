@@ -15,6 +15,7 @@ git clone repo주소 .
 
 (***순서 기억***)
 git pull					<- 혼자 하는 프로젝트에서는 필요 없음
+코드 수정
 git add .
 git commit -m '메시지'
 git push
